@@ -1,0 +1,83 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_beauty-studio">
+            <key name="beauty_studio_theme_options">
+                <key name="beauty-studio-display-site-logo"/>
+                <key name="beauty-studio-display-site-title"/>
+                <key name="beauty-studio-display-site-tagline"/>
+                <key name="beauty-studio-header-height"/>
+                <key name="beauty-studio-header-image-display"/>
+                <key name="beauty-studio-enable-header-top"/>
+                <key name="beauty-studio-header-top-menu-display-selection"/>
+                <key name="beauty-studio-header-top-news-display-selection"/>
+                <key name="beauty-studio-header-top-social-display-selection"/>
+                <key name="beauty-studio-newsnotice-title"/>
+                <key name="beauty-studio-newsnotice-cat"/>
+                <key name="beauty-studio-enable-transparent"/>
+                <key name="beauty-studio-enable-sticky"/>
+                <key name="beauty-studio-menu-right-button-options"/>
+                <key name="beauty-studio-menu-right-button-title"/>
+                <key name="beauty-studio-menu-right-button-link"/>
+                <key name="beauty-studio-enable-cart-icon"/>
+                <key name="beauty-studio-enable-feature"/>
+                <key name="beauty-studio-slider-selection-from"/>
+                <key name="beauty-studio-slides-data"/>
+                <key name="beauty-studio-feature-slider-enable-animation"/>
+                <key name="beauty-studio-feature-slider-display-title"/>
+                <key name="beauty-studio-feature-slider-display-excerpt"/>
+                <key name="beauty-studio-fs-image-display-options"/>
+                <key name="beauty-studio-feature-slider-text-align"/>
+                <key name="beauty-studio-feature-info-display-options"/>
+                <key name="beauty-studio-feature-info-number"/>
+                <key name="beauty-studio-first-info-icon"/>
+                <key name="beauty-studio-first-info-title"/>
+                <key name="beauty-studio-first-info-desc"/>
+                <key name="beauty-studio-second-info-icon"/>
+                <key name="beauty-studio-second-info-title"/>
+                <key name="beauty-studio-second-info-desc"/>
+                <key name="beauty-studio-third-info-icon"/>
+                <key name="beauty-studio-third-info-title"/>
+                <key name="beauty-studio-third-info-desc"/>
+                <key name="beauty-studio-forth-info-icon"/>
+                <key name="beauty-studio-forth-info-title"/>
+                <key name="beauty-studio-forth-info-desc"/>
+                <key name="beauty-studio-footer-copyright"/>
+                <key name="beauty-studio-footer-copyright-beside-option"/>
+                <key name="beauty-studio-footer-bg-img"/>
+                <key name="beauty-studio-pagination-option"/>
+                <key name="beauty-studio-enable-animation"/>
+                <key name="beauty-studio-single-sidebar-layout"/>
+                <key name="beauty-studio-front-page-sidebar-layout"/>
+                <key name="beauty-studio-archive-sidebar-layout"/>
+                <key name="beauty-studio-blog-archive-img-size"/>
+                <key name="beauty-studio-blog-archive-content-from"/>
+                <key name="beauty-studio-blog-archive-excerpt-length"/>
+                <key name="beauty-studio-blog-archive-more-text"/>
+                <key name="beauty-studio-primary-color"/>
+                <key name="beauty-studio-header-top-bg-color"/>
+                <key name="beauty-studio-footer-bg-color"/>
+                <key name="beauty-studio-footer-bottom-bg-color"/>
+                <key name="beauty-studio-link-color"/>
+                <key name="beauty-studio-link-hover-color"/>
+                <key name="beauty-studio-hide-front-page-content"/>
+                <key name="beauty-studio-hide-front-page-header"/>
+                <key name="beauty-studio-wc-shop-archive-sidebar-layout"/>
+                <key name="beauty-studio-wc-product-column-number"/>
+                <key name="beauty-studio-wc-shop-archive-total-product"/>
+                <key name="beauty-studio-wc-single-product-sidebar-layout"/>
+                <key name="beauty-studio-single-header-title"/>
+                <key name="beauty-studio-single-img-size"/>
+                <key name="beauty-studio-popup-widget-title"/>
+                <key name="beauty-studio-show-breadcrumb"/>
+                <key name="beauty-studio-search-placeholder"/>
+                <key name="beauty-studio-social-data"/>
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
+
+
+
+

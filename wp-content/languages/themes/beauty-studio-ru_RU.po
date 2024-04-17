@@ -1,0 +1,2575 @@
+# Translation of Themes - Beauty Studio in Russian
+# This file is distributed under the same license as the Themes - Beauty Studio package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-06 18:44:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Beauty Studio\n"
+
+#. Theme Name of the theme
+#: acmethemes/admin-notice/class-admin-notice-handler.php:184
+#: acmethemes/at-theme-info/class-at-theme-info.php:824
+#: acmethemes/hooks/slider-selection.php:30
+#, gp-priority: high
+msgid "Beauty Studio"
+msgstr "Beauty Studio"
+
+#: acmethemes/customizer/header-options/popup-widgets.php:9
+msgid "Popup Main Title"
+msgstr "Основное название всплывающего окна"
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:153
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Действие не удалось. Обновите страницу и попробуйте снова."
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:157
+msgid "Cheatin&#8217; huh?"
+msgstr "Эй! Жульничаем?"
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:194
+#: acmethemes/at-theme-info/class-at-theme-info.php:217
+msgid "Clicking the button below will install and activate the Advanced Import plugin."
+msgstr "Нажав на кнопку ниже, вы установите и активируете плагин Advanced Import."
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:181
+msgid "Dismiss"
+msgstr "Отклонить"
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:419
+msgid "Got theme support question?"
+msgstr "Есть вопросы, касательно этой темы?"
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:414
+msgid "I already did"
+msgstr "Я уже сделал"
+
+#. Translators: %1$s current user display name.
+#: acmethemes/admin-notice/class-admin-notice-handler.php:393
+msgid "Howdy, %1$s! It seems that you have been using this theme for more than 15 days. We hope you are happy with everything that the theme has to offer. If you can spare a minute, please help us by leaving a 5-star review on WordPress.org.  By spreading the love, we can continue to develop new amazing features in the future, for free!"
+msgstr "Здравствуйте, %1$s! Похоже, что вы используете эту тему уже более 15 дней. Мы надеемся, что вы довольны всем, что может предложить эта тема. Если у вас есть свободная минутка, пожалуйста, помогите нам, оставив 5-звездочный отзыв на WordPress.org.  Распространяя любовь, мы сможем продолжить разработку новых удивительных функций в будущем, бесплатно!"
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:409
+msgid "Maybe later"
+msgstr "Возможно позже"
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:132
+msgid "Processing..."
+msgstr "Обработка…"
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:231
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Извините, вам не разрешено устанавливать плагины на этот сайт."
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:404
+msgid "Sure"
+msgstr "Конечно"
+
+#: acmethemes/admin-notice/class-admin-notice-handler.php:303
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Невозможно подключиться к файловой системе. Пожалуйста, подтвердите свои учетные данные."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: acmethemes/admin-notice/class-admin-notice-handler.php:190
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer, please make sure you visit our %2$swelcome page%3$s."
+msgstr "Добро пожаловать! Спасибо, что выбрали %1$s! Чтобы в полной мере воспользоваться всеми преимуществами нашей темы, пожалуйста, обязательно посетите нашу %2$sСтраницу приветствия%3$s."
+
+#. translators: 1: plugin name(s).
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин для максимальной совместимости с темой должен быть обновлен на последюю версию: %1$s."
+msgstr[1] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+msgstr[2] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+
+#. translators: 1: plugin name(s).
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Этот рекомендуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти рекомендуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот требуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти требуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти требуемые плагины сейчас деактивированы: %1$s."
+
+#. translators: 1: plugin name(s).
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+msgstr[2] "Эта тема рекомендует следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+msgstr[2] "Эта тема требует следующие плагины: %1$s."
+
+#: acmethemes/hooks/footer.php:96
+msgid "%1$s by %2$s"
+msgstr "%1$s от %2$s"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1003
+msgid "%s is now installed and ready to use. We hope the following information will help you. If you want to ask any query or just want to say hello, you can always contact us. We hope you enjoy it! "
+msgstr "%s теперь установлен и готов к использованию. Мы надеемся, что следующая информация поможет вам. Если вы хотите задать какой-либо вопрос или просто поздороваться, вы всегда можете связаться с нами. Мы надеемся, что вам понравится! "
+
+#: acmethemes/customizer/customizer-core.php:136
+#: acmethemes/sidebar-widget/sidebar.php:52
+msgid "2"
+msgstr "2"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:490
+#: acmethemes/at-theme-info/class-at-theme-info.php:619
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1402
+msgid "Add Own Video On Featured"
+msgstr "Добавить собственное видео в рекомендуемое"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1378
+#: acmethemes/at-theme-info/class-at-theme-info.php:1396
+msgid "Advanced"
+msgstr "Расширенный"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1394
+msgid "Advanced options for manage the Breadcrumb."
+msgstr "Расширенные параметры для управления хлебными крошками."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1233
+msgid "All added custom widgets are ready for page builder plugin"
+msgstr "Все добавленные пользовательские виджеты готовы для плагина Конструктор страниц (page builder)"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1064
+msgid "All Setting, Theme Options, Widgets and Menus are available via Customize screen. Have a quick look or start customization!"
+msgstr "Все настройки, параметры темы, виджеты и меню доступны через экран Настроить (Customize). Просмотрите или начните индивидуализацию!"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1363
+msgid "Author Info Options"
+msgstr "Параметры информации об авторе"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1315
+msgid "Blog/Archive Options"
+msgstr "Параметры блога/архива"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1448
+msgid "Both theme are translation ready."
+msgstr "Обе темы готовы к переводу."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1393
+msgid "Breadcrumb"
+msgstr "Навигационная цепочка"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1460
+msgid "Change the number of footers on footer area as you need."
+msgstr "Измените кол-во подвалов в области подвала (footer) по своему усмотрению."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1046
+msgid "Changelog"
+msgstr "Журнал изменений"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1273
+msgid "Color Options"
+msgstr "Параметры цвета"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1274
+msgid "Color options for changing overall site colors, Contat us"
+msgstr "Параметры цвета для изменения общих цветов сайта, связаться с нами"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1183
+#: acmethemes/at-theme-info/class-at-theme-info.php:1186
+msgid "Contact Support"
+msgstr "Связаться со службой поддержки"
+
+#: acmethemes/customizer/footer-options/footer-copyright.php:17
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1442
+msgid "Create WooCommerce shop easily with the help of WooCommerce plugin."
+msgstr "Без труда создавайте магазин WooCommerce с помощью плагина WooCommerce."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1400
+msgid "Create your video post easily from Youtube and Vimeo video."
+msgstr "Без труда создавайте видеозаписи из видео Youtube и Vimeo."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1232
+msgid "Custom Widgets"
+msgstr "Пользовательские виджеты"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1219
+#: acmethemes/at-theme-info/class-at-theme-info.php:1222
+msgid "Customization Request"
+msgstr "Запрос на индивидуализацию"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:496
+#: acmethemes/at-theme-info/class-at-theme-info.php:625
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1468
+msgid "Dedicated With High Priority"
+msgstr "Выделенный с высоким приоритетом"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1377
+#: acmethemes/at-theme-info/class-at-theme-info.php:1425
+#: acmethemes/at-theme-info/class-at-theme-info.php:1437
+#: acmethemes/customizer/customizer-core.php:248
+#: acmethemes/sidebar-widget/sidebar.php:30
+msgid "Default"
+msgstr "По умолчанию"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1454
+msgid "Developed with high skilled SEO tools."
+msgstr "Разработан с использованием высококвалифицированных SEO-инструментов."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1056
+#: acmethemes/at-theme-info/class-at-theme-info.php:1192
+msgid "Documentation"
+msgstr "Документация"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:680
+msgid "Download"
+msgstr "Скачать"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1336
+#: acmethemes/at-theme-info/class-at-theme-info.php:1342
+msgid "Enable/Disable"
+msgstr "Включить/Отключить"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1310
+msgid "Enable/Disable sticky sidebars"
+msgstr "Включение/отключить прилепленную область виджетов"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1346
+msgid "Enter the URL for social icons. "
+msgstr "Введите URL-адрес для значков соцсетей. "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1262
+msgid "Every widgets have multiple options to customize section"
+msgstr "У каждого виджета есть несколько вариантов настройки раздела"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1047
+msgid "FAQ"
+msgstr "FAQ"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1369
+msgid "Feature Image Options"
+msgstr "Параметры функционального изображения"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1370
+msgid "Featured image options for the single page and post."
+msgstr "Параметры изображения записи для отдельной страницы и записи."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1411
+msgid "Featured Image Size"
+msgstr "Размер изображения записи"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1083
+msgid "Featured Section"
+msgstr "Раздел Рекомендуемые"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1303
+#: acmethemes/customizer/feature-section/feature-panel.php:6
+msgid "Featured Section Options"
+msgstr "Параметры раздела Рекомендуемые"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1297
+msgid "Featured Selection"
+msgstr "Рекомендуемый выбор"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1321
+#: acmethemes/customizer/footer-options/footer-panel.php:6
+msgid "Footer Options"
+msgstr "Настройки подвала"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1048
+msgid "Free VS PRO"
+msgstr "Free в сравнении с PRO"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:49
+msgid "Get started with %s"
+msgstr "Начать работу с %s"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1042
+msgid "Getting Started"
+msgstr "Приступая к работе"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1418
+msgid "Global and Individual sidebars are available. You can easily orveride it from single page/post."
+msgstr "Доступны глобальные и индивидуальные области виджетов. Вы можете легко изменить его на отдельной странице/записи."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1065
+msgid "Go to Customizer"
+msgstr "Перейти к настройке темы"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1267
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1268
+msgid "Google fonts options for changing the overall site fonts "
+msgstr "Параметры шрифтов Google для изменения шрифтов для всего сайта "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1210
+msgid "Got sales related question?"
+msgstr "Есть вопрос, связанный с покупкой?"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1185
+msgid "Got theme support question or found bug? Best place to ask your query is our dedicated Support forum."
+msgstr "У вас есть вопрос по поддержке темы или обнаружена ошибка? Лучшее место, где вы можете задать свой вопрос - это наш специальный форум поддержки."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1212
+msgid "Have any query before purchase, you are more than welcome to ask."
+msgstr "Если у вас есть какие-либо вопросы перед покупкой, вы можете их задать."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1279
+#: acmethemes/customizer/header-options/header-panel.php:6
+msgid "Header Options"
+msgstr "Параметры заголовка"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1466
+msgid "Highly dedicated support team are assigned for your help. Try this today."
+msgstr "Для вашей помощи назначена специальная группа поддержки. Попробуй сегодня."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:514
+msgid "Hooray! There are no recommended actions for you right now."
+msgstr "Ура! На данный момент для вас нет рекомендуемых действий."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:47
+#: acmethemes/at-theme-info/class-at-theme-info.php:48
+msgid "Info"
+msgstr "Информация"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:485
+#: acmethemes/at-theme-info/class-at-theme-info.php:614
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1112
+msgid "Install Demo Setup"
+msgstr "Установить демо-установку"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1351
+msgid "Intro Loader Options"
+msgstr "Параметры загрузчика Intro (вступление)"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1352
+msgid "It will load before the site loaded completely."
+msgstr "Он будет загружаться до полной загрузки сайта."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1263
+#: acmethemes/at-theme-info/class-at-theme-info.php:1275
+#: acmethemes/at-theme-info/class-at-theme-info.php:1281
+#: acmethemes/at-theme-info/class-at-theme-info.php:1293
+#: acmethemes/at-theme-info/class-at-theme-info.php:1305
+#: acmethemes/at-theme-info/class-at-theme-info.php:1317
+#: acmethemes/at-theme-info/class-at-theme-info.php:1323
+#: acmethemes/at-theme-info/class-at-theme-info.php:1407
+msgid "Limited"
+msgstr "Ограниченная"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:683
+msgid "Live Preview"
+msgstr "Предпросмотр в реальном времени"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1292
+msgid "Lots of menu options are available to manage the menu section. Appearance > Menus"
+msgstr "В настройках меню доступно множество опций. Внешний вид> Меню"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1372
+msgid "Manage As Your Need"
+msgstr "Управляйте по мере необходимости"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1406
+msgid "Manage every entity of single post."
+msgstr "Управление каждой сущностью отдельной записи."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1382
+msgid "Manage the comment section on single post."
+msgstr "Управляйте разделом комментариев к отдельной записи."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1322
+msgid "Manage the every entity related to footer section."
+msgstr "Управляйте каждой сущностью, связанной с разделом подвала."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1291
+#: acmethemes/customizer/header-options/menu-options.php:37
+msgid "Menu Options"
+msgstr "Параметры меню"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1282
+#: acmethemes/at-theme-info/class-at-theme-info.php:1294
+#: acmethemes/at-theme-info/class-at-theme-info.php:1306
+#: acmethemes/at-theme-info/class-at-theme-info.php:1324
+#: acmethemes/at-theme-info/class-at-theme-info.php:1354
+#: acmethemes/at-theme-info/class-at-theme-info.php:1360
+#: acmethemes/at-theme-info/class-at-theme-info.php:1366
+#: acmethemes/at-theme-info/class-at-theme-info.php:1384
+#: acmethemes/at-theme-info/class-at-theme-info.php:1408
+msgid "Multiple Options"
+msgstr "Несколько вариантов"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1375
+msgid "Navigation Options"
+msgstr "Параметры навигации"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1201
+msgid "Need more features?"
+msgstr "Нужно больше функций?"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1221
+msgid "Needed any customization for the theme, you can request from here."
+msgstr "Если вам нужна какая-либо индивидуализация темы, вы можете сделать запрос здесь."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1335
+msgid "No Options To Disable"
+msgstr "Нет параметров для отключения"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1334
+msgid "Options to disable to Powered by text on footer."
+msgstr "Параметры для отключения текса Powered by (Работает на) в подвале."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1304
+msgid "Options to manage the sliders"
+msgstr "Параметры для управления слайдерами"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1328
+msgid "Options to manage the social icons like facebook, instagram, linkedin etc."
+msgstr "Возможность управления значками соцсетей, такими как facebook, instagram, linkedin и т.д."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1388
+msgid "Options to show hide comments on page and post."
+msgstr "Параметры для показа скрытых комментариев на странице и в записях."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1339
+msgid "Own Credit Link"
+msgstr "Собственная кредитная линия"
+
+#: acmethemes/functions.php:278 template-parts/content-page.php:26
+#: template-parts/content-single.php:49 template-parts/content.php:60
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1381
+msgid "Post Comment Options"
+msgstr "Параметры комментариев к записям"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1376
+msgid "Post Navigation means, previous post and next post. Check on single post."
+msgstr "Навигация по сообщениям означает предыдущее и следующее сообщение. Проверьте в отдельной записи."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1213
+msgid "Pre-sale Question?"
+msgstr "Предпродажный вопрос?"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1022
+msgid "Rate This Theme"
+msgstr "Оцените эту тему"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1195
+msgid "Read full documentation"
+msgstr "Читать полную документацию"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1171
+msgid "Recent Updates of your Site ? "
+msgstr "Последние обновления вашего сайта? "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1043
+msgid "Recommended Actions"
+msgstr "Рекомендуемые действия"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1357
+msgid "Related Post Options"
+msgstr "Параметры похожих записей"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1467
+msgid "Second"
+msgstr "Секунда"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1412
+msgid "Select the size of the featured image on the single post."
+msgstr "Выберите размер изображения записи в отдельной записи."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1453
+msgid "SEO"
+msgstr "SEO"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:515
+msgid "Show All Recommended Actions"
+msgstr "Показать все рекомендуемые действия"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1387
+msgid "Show/Hide Comment"
+msgstr "Показать/скрыть комментарий"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1417
+msgid "Sidebars"
+msgstr "Области виджетов"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1405
+msgid "Single Post Options"
+msgstr "Варианты отдельной записи"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1327
+#: acmethemes/customizer/options/social-options.php:6
+msgid "Social Options"
+msgstr "Параметры соцсетей"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1054
+msgid "Step 1 : Read full documentation"
+msgstr "Шаг 1. Прочтите полную документацию"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1063
+msgid "Step 2 : Go to Customizer"
+msgstr "Шаг 2: Перейдите к настройке темы"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1309
+msgid "Sticky Sidebar"
+msgstr "Прилепленная область виджетов"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1045
+msgid "Support"
+msgstr "Техподдержка"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1465
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1333
+msgid "Theme Credit Link"
+msgstr "Ссылка на доверие (credit) темы"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1010
+msgid "Theme Details"
+msgstr "Сведения о теме"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1298
+msgid "This is slider section. Check every options there"
+msgstr "Это раздел слайдера. Проверьте там все опции"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1447
+msgid "Translation"
+msgstr "Перевод"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1203
+msgid "Upgrade to PRO version for more exciting features and Priority Support."
+msgstr "Обновите версию до PRO, чтобы получить больше интересных функций и приоритетную поддержку."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1044
+msgid "Useful Plugins"
+msgstr "Полезные плагины"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1316
+msgid "Various Options are available for the blog and archive page management. Check on Appearance > Customize > Layout/Design Options."
+msgstr "Для управления страницами блога и архива доступны различные опции. Проверьте Внешний вид > Настроить > Параметры макета/дизайна."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1399
+msgid "Video Post On Featured"
+msgstr "Видео запись в рекомендуемом"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1014
+msgid "View Demo"
+msgstr "Посмотреть демо"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1018
+#: acmethemes/at-theme-info/class-at-theme-info.php:1204
+msgid "View Pro Version"
+msgstr "Посмотреть версию Pro"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1174
+msgid "Visit our site blog page"
+msgstr "Посетите страницу блога нашего сайта"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1000
+msgid "Welcome to %s - "
+msgstr "Добро пожаловать в %s - "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:49
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr "Добро пожаловать! Спасибо, что выбрали %1$s! Чтобы в полной мере воспользоваться всеми преимуществами нашей темы, обязательно посетите нашу %2$sСтраницу приветствия%3$s."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1173
+msgid "Where i can get the recent updates of theme related updates ? "
+msgstr "Где я могу получить последние обновления, связанные с темой? "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1459
+msgid "Widget Area On Footer"
+msgstr "Область виджетов в подвале"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1261
+msgid "Widget Options"
+msgstr "Параметры виджета"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1441
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1340
+msgid "Write your own credit text."
+msgstr "Напишите свой собственный текст доверия (credit)."
+
+#: 404.php:33
+msgid "404"
+msgstr "404"
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:272
+msgid "404 Not Found"
+msgstr "404 не найдено"
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:273
+msgid "Archives"
+msgstr "Архивы"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:794
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:850
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:1220
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:777
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "H"
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:743
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "H:i"
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:271
+msgid "Home"
+msgstr "Главная"
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:760
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:795
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:1224
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. Translators: %s is the page number.
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:277
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: functions.php:97
+msgid "Read More"
+msgstr "Читать далее"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#. Translators: %s is the search query.
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:275
+msgid "Search results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: acmethemes/hooks/header.php:136
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1345
+msgid "Social Icons"
+msgstr "Иконки социальных сетей "
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:823
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:793
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:822
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:849
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:876
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:1216
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: acmethemes/core/template-tags.php:68
+msgid "% Comments"
+msgstr "% комментариев"
+
+#. translators: 1: date, 2: time
+#: acmethemes/functions.php:60
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#. translators: 1: plugin name.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s был успешно установлен и активирован."
+
+#. translators: 1: plugin name.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s был успешно установлен."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Thought to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Thoughts to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#. translators: 1: install status, 2: update status
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: acmethemes/functions.php:62
+msgid "(Edit)"
+msgstr "(Изменить)"
+
+#. translators: used between list items, there is a space after the comma
+#: acmethemes/core/template-tags.php:16 acmethemes/core/template-tags.php:61
+msgid ", "
+msgstr ", "
+
+#: functions.php:75
+msgid "01-23456789-10"
+msgstr "01-23456789-10"
+
+#: acmethemes/customizer/customizer-core.php:135
+#: acmethemes/sidebar-widget/sidebar.php:51
+msgid "1"
+msgstr "1"
+
+#: acmethemes/core/template-tags.php:68
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: acmethemes/customizer/customizer-core.php:137
+#: acmethemes/sidebar-widget/sidebar.php:53
+msgid "3"
+msgstr "3"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1438
+msgid "3 Options"
+msgstr "3 Варианта"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1426
+msgid "3 Position Left, Right and Middle"
+msgstr "3 позиции Левая, правая и средняя"
+
+#: acmethemes/customizer/customizer-core.php:138
+#: acmethemes/sidebar-widget/sidebar.php:54
+msgid "4"
+msgstr "4"
+
+#: functions.php:78
+msgid "8 hours per day"
+msgstr "8 ч. в день"
+
+#: acmethemes/functions.php:48
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: single.php:50
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%title</span>"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активация %2$s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активный"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:605
+msgid "Active:"
+msgstr "Активна:"
+
+#: acmethemes/hooks/comment-forms.php:22
+msgid "Add Comment"
+msgstr "Добавить комментарий"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:95
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:253
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:373
+#: acmethemes/metabox/meta-icons.php:46
+msgid "Add Icon"
+msgstr "Добавить значок"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:154
+#: acmethemes/sidebar-widget/acme-gallery.php:150
+#: acmethemes/sidebar-widget/acme-service.php:156
+#: acmethemes/sidebar-widget/acme-team.php:153
+#: acmethemes/sidebar-widget/acme-testimonial.php:168
+msgid "Add Item"
+msgstr "Добавить элемент"
+
+#: acmethemes/customizer/options/social-options.php:25
+msgid "Add New Icon"
+msgstr "Добавить новый значок"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:31
+msgid "Add New Slide"
+msgstr "Добавить новый слайд"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:62
+msgid "Add Page, Reorder and Remove"
+msgstr "Добавить страницу, переупорядочить и удалить"
+
+#: acmethemes/sidebar-widget/acme-team.php:61
+msgid "Add Page, Reorder and Remove. Please do not forget to add Featured Image and Excerpt on selected pages"
+msgstr "Добавить страницу, переупорядочить и удалить. Не забудьте добавить изображение страницы и отрывок в выбранных страницах"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:59
+msgid "Add Page, Reorder and Remove. Please do not forget to add Featured Image on selected pages. "
+msgstr "Добавить страницу, переупорядочить и удалить. Не забудьте добавить изображение страницы в выбранных страницах. "
+
+#: acmethemes/sidebar-widget/acme-service.php:65
+msgid "Add Page, Reorder and Remove. Please do not forget to add Icon and Excerpt on selected pages."
+msgstr "Добавить страницу, переупорядочить и удалить. Не забудьте добавить значок и отрывок на выбранные страницы."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1431
+#: acmethemes/at-theme-info/class-at-theme-info.php:1432
+msgid "Add your required Widget"
+msgstr "Добавьте требуемый виджет"
+
+#: acmethemes/customizer/header-options/header-top.php:61
+msgid "Add/Edit Menu Items from %1$s here%2$s and select Menu Location : Top Menu ( Support First Level Only ) "
+msgstr "Добавить/редактировать пункты меню из %1$s здесь%2$s и выбрать расположение меню: Верхнее меню (поддержка только первого уровня) "
+
+#: acmethemes/customizer/header-options/header-top.php:93
+msgid "Add/Edit Social Items from %1$s here%2$s "
+msgstr "Редактировать кнопки соцсетей %1$sздесь%2$s "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1082
+msgid "Advanced Feature Section is available in this theme. You can add Feature Main Slider and Feature Right Vertical Slider, also you can add widgets before feature. Please do the Step 3 before this."
+msgstr "В этой теме доступен раздел расширенных функций. Вы можете добавить основной ползунок функции и правый вертикальный ползунок функции, а также вы можете добавить виджеты перед функцией. Пожалуйста, выполните шаг 3 перед этим."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1419
+#: acmethemes/at-theme-info/class-at-theme-info.php:1420
+msgid "Advanced Global And Individuals"
+msgstr "Продвинутый глобальный и индивидуальный"
+
+#. translators: 1: number of plugins.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все: <span class=\"count\">(%s)</span>"
+msgstr[1] "Все: <span class=\"count\">(%s)</span>"
+msgstr[2] "Все: <span class=\"count\">(%s)</span>"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: dashboard link.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#: acmethemes/functions.php:175
+msgid "All posts"
+msgstr "Все записи"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1276
+msgid "Almost All parts"
+msgstr "Почти все части"
+
+#: acmethemes/customizer/design-options/colors-options.php:34
+msgid "Also used as secondary color"
+msgstr "Также используется как дополнительный цвет"
+
+#: acmethemes/customizer/customizer-core.php:75
+msgid "Alternate"
+msgstr "Альтернативно"
+
+#. translators: 1: plugin name, 2: error message.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:1121
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: acmethemes/customizer/design-options/animation.php:6
+msgid "Animation"
+msgstr "Анимация"
+
+#: acmethemes/customizer/customizer.php:99
+msgid "Applied to header image of inner pages."
+msgstr "Применяется к заголовку изображения внутренних страниц."
+
+#: acmethemes/functions.php:221
+msgid "ASC"
+msgstr "По возрастанию"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:28
+msgid "AT Accordion Section"
+msgstr "Раздел аккордеона AT"
+
+#. Template Name of the theme
+msgid "AT Builder Page"
+msgstr "Страница конструктора AT"
+
+#: acmethemes/sidebar-widget/acme-contact.php:28
+msgid "AT Contact Section"
+msgstr "Раздел контактов AT"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:27
+msgid "AT Gallery Section"
+msgstr "Раздел галереи AT"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:43
+msgid "AT Posts Column"
+msgstr "Столбец записей АТ"
+
+#: acmethemes/sidebar-widget/acme-service.php:29
+msgid "AT Service Section"
+msgstr "Раздел обслуживания AT"
+
+#: acmethemes/sidebar-widget/acme-team.php:28
+msgid "AT Team/Speakers Section"
+msgstr "Раздел Команда/Спикеры АТ"
+
+#: acmethemes/sidebar-widget/acme-testimonial.php:27
+msgid "AT Testimonial Section"
+msgstr "Раздел отзывов AT"
+
+#: acmethemes/functions.php:197
+msgid "Author"
+msgstr "Автор"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: acmethemes/customizer/customizer-core.php:15
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:181
+#: acmethemes/sidebar-widget/acme-col-posts.php:248
+#: acmethemes/sidebar-widget/acme-contact.php:106
+#: acmethemes/sidebar-widget/acme-service.php:197
+#: acmethemes/sidebar-widget/acme-team.php:192
+msgid "Background Options"
+msgstr "Параметры фона"
+
+#: acmethemes/customizer/customizer.php:90
+msgid "Basic Color"
+msgstr "Базовый цвет"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начало активации плагина"
+msgstr[1] "Начало активации плагинов"
+msgstr[2] "Начало активации плагинов"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начало установки плагина"
+msgstr[1] "Начало установки плагинов"
+msgstr[2] "Начало установки плагинов"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начало обновления плагина"
+msgstr[1] "Начало обновления плагинов"
+msgstr[2] "Начало обновления плагинов"
+
+#: functions.php:117
+msgid "Blog"
+msgstr "Блог"
+
+#: acmethemes/customizer/design-options/blog-layout.php:88
+msgid "Blog and Archive Pages Pagination"
+msgstr "Пагинация страниц блога и архива"
+
+#: acmethemes/customizer/design-options/blog-layout.php:45
+msgid "Blog/Archive Content From"
+msgstr "Содержимое блога/архива из"
+
+#: acmethemes/sidebar-widget/acme-parallax.php:21
+msgid "Book Now"
+msgstr "Забронировать сейчас"
+
+#: acmethemes/customizer/customizer-core.php:178
+msgid "Both Sidebar"
+msgstr "Обе области виджетов"
+
+#: acmethemes/customizer/footer-options/footer-copyright.php:6
+msgid "Bottom Copyright Section"
+msgstr "Нижний раздел авторского права"
+
+#: acmethemes/customizer/options/breadcrumb.php:6
+msgid "Breadcrumb Options"
+msgstr "Параметры хлебных крошек"
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:270
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Навигационные цепочки"
+
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:269
+msgid "Browse:"
+msgstr "Просмотреть:"
+
+#: acmethemes/customizer/header-options/menu-options.php:163
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: acmethemes/sidebar-widget/acme-parallax.php:91
+#: acmethemes/sidebar-widget/acme-parallax.php:99
+msgid "Button Link Url"
+msgstr "URL ссылки кнопки"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:45
+msgid "Button One Link"
+msgstr "Ссылка первой кнопки"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:41
+msgid "Button One Text"
+msgstr "Текст первой кнопки"
+
+#: acmethemes/customizer/header-options/menu-options.php:115
+msgid "Button Options"
+msgstr "Параметры кнопки"
+
+#: acmethemes/customizer/header-options/menu-options.php:128
+msgid "Button Title"
+msgstr "Название кнопки"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:53
+msgid "Button Two Link"
+msgstr "Ссылка второй кнопки"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:49
+msgid "Button Two Text"
+msgstr "Текст второй кнопки"
+
+#: functions.php:74
+msgid "Call Us"
+msgstr "Позвоните нам"
+
+#: acmethemes/functions.php:157
+msgid "Carousel Column"
+msgstr "Карусельная колонка"
+
+#: acmethemes/functions.php:176
+msgid "Categories"
+msgstr "Категории"
+
+#: acmethemes/customizer/design-options/archive-sidebar-layout.php:6
+#: acmethemes/customizer/design-options/archive-sidebar-layout.php:19
+msgid "Category/Archive Sidebar Layout"
+msgstr "Макет области виджетов рубрики/архива"
+
+#: acmethemes/customizer/customizer-core.php:78
+msgid "Center"
+msgstr "По центру"
+
+#: acmethemes/customizer/design-options/animation.php:18
+msgid "Check this to disable overall site animation effect provided by theme"
+msgstr "Отметьте, чтобы на всём сайте отключить эффект анимации, предоставленный темой"
+
+#: acmethemes/metabox/metabox-defaults.php:97
+msgid "Choose Sidebar Template"
+msgstr "Выберите шаблон области виджетов"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:300
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:425
+#: acmethemes/sidebar-widget/acme-accordion.php:97
+#: acmethemes/sidebar-widget/acme-accordion.php:145
+#: acmethemes/sidebar-widget/acme-gallery.php:94
+#: acmethemes/sidebar-widget/acme-gallery.php:142
+#: acmethemes/sidebar-widget/acme-service.php:100
+#: acmethemes/sidebar-widget/acme-service.php:148
+#: acmethemes/sidebar-widget/acme-team.php:96
+#: acmethemes/sidebar-widget/acme-team.php:144
+#: acmethemes/sidebar-widget/acme-testimonial.php:111
+#: acmethemes/sidebar-widget/acme-testimonial.php:159
+msgid "Close"
+msgstr "Закрыть"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:171
+#: acmethemes/sidebar-widget/acme-gallery.php:157
+#: acmethemes/sidebar-widget/acme-service.php:184
+#: acmethemes/sidebar-widget/acme-team.php:179
+msgid "Column Number"
+msgstr "Количество колонок"
+
+#: acmethemes/hooks/comment-forms.php:20
+msgid "Comment"
+msgstr "Комментарий"
+
+#: acmethemes/functions.php:202
+msgid "Comment Count"
+msgstr "Количество комментариев"
+
+#: comments.php:51 comments.php:72
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. Translators: %s is the page number.
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:279
+msgid "Comment Page %s"
+msgstr "Страница комментария %s"
+
+#: acmethemes/customizer/customizer-core.php:199
+#: acmethemes/sidebar-widget/sidebar.php:94
+msgid "Content"
+msgstr "Содержимое"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:160
+#: acmethemes/sidebar-widget/acme-col-posts.php:148
+#: acmethemes/sidebar-widget/acme-service.php:163
+#: acmethemes/sidebar-widget/acme-team.php:158
+#: acmethemes/sidebar-widget/acme-testimonial.php:173
+msgid "Content From"
+msgstr "Содержимое из"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:56
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: acmethemes/customizer/header-options/header-panel.php:42
+msgid "Control the height of Header section. The minimum height is 100px and maximium height is 500px"
+msgstr "Контролируйте высоту секции заголовка. Минимальная высота составляет 100px, а максимальная высота - 500px"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1280
+msgid "Customize the header section as your need."
+msgstr "Настройте раздел заголовка по своему усмотрению."
+
+#: acmethemes/customizer/feature-section/feature-panel.php:7
+msgid "Customize your awesome site feature section "
+msgstr "Настройте функциональную секцию вашего потрясающего сайта "
+
+#: acmethemes/customizer/footer-options/footer-panel.php:7
+msgid "Customize your awesome site footer "
+msgstr "Настройте подвал вашего сайта "
+
+#: acmethemes/customizer/header-options/header-panel.php:7
+msgid "Customize your awesome site header "
+msgstr "Настроить потрясающий заголовок сайта "
+
+#: acmethemes/customizer/options/options-panel.php:7
+msgid "Customize your awesome site with theme options "
+msgstr "Настройте свой потрясающий сайт с помощью параметров темы "
+
+#: acmethemes/functions.php:199
+msgid "Date"
+msgstr "Дата"
+
+#: acmethemes/customizer/design-options/blog-layout.php:17
+msgid "Default Blog/Archive Layout"
+msgstr "Макет блога/архива по умолчанию"
+
+#: acmethemes/core/custom-header.php:23
+msgid "Default Header Image"
+msgstr "Изображение заголовка по умолчанию"
+
+#: acmethemes/customizer/design-options/sidebar-layout.php:6
+#: acmethemes/customizer/design-options/sidebar-layout.php:19
+msgid "Default Page/Post Sidebar Layout"
+msgstr "Макет страницы/записи по умолчанию"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:296
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:421
+msgid "Delete"
+msgstr "Удалить"
+
+#: acmethemes/functions.php:222
+msgid "DESC"
+msgstr "По убыванию"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1436
+msgid "Different Types of Header."
+msgstr "Различные типы заголовков."
+
+#: acmethemes/customizer/customizer-core.php:34 acmethemes/functions.php:308
+#: acmethemes/sidebar-widget/sidebar.php:74
+msgid "Disable"
+msgstr "Отключить"
+
+#: acmethemes/customizer/design-options/animation.php:17
+msgid "Disable animation"
+msgstr "Отключить анимацию"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Скрыть эту заметку"
+
+#: acmethemes/customizer/header-options/header-top.php:46
+msgid "Display Different Element on Top Right or Left"
+msgstr "Отображение различных элементов сверху справа или слева"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:92
+msgid "Display Excerpt"
+msgstr "Отображать отрывок"
+
+#: acmethemes/customizer/header-options/header-logo.php:9
+msgid "Display Logo"
+msgstr "Отображать логотип"
+
+#: acmethemes/customizer/header-options/header-logo.php:35
+msgid "Display Site Tagline"
+msgstr "Отображать краткое описание сайта"
+
+#: acmethemes/customizer/header-options/header-logo.php:22
+msgid "Display Site Title"
+msgstr "Отображать название сайта"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:79
+msgid "Display Title"
+msgstr "Отображать название"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:185
+msgid "Display Type"
+msgstr "Тип отображения"
+
+#: acmethemes/sidebar-widget/sidebar.php:184
+msgid "Displays items on Pop up"
+msgstr "Отображение элементов во всплывающем окне"
+
+#: acmethemes/sidebar-widget/sidebar.php:144
+#: acmethemes/sidebar-widget/sidebar.php:154
+#: acmethemes/sidebar-widget/sidebar.php:164
+#: acmethemes/sidebar-widget/sidebar.php:174
+msgid "Displays items on top footer section."
+msgstr "Отображает элементы в верхнем нижнем колонтитуле."
+
+#: acmethemes/sidebar-widget/sidebar.php:119
+msgid "Displays widgets on Front/Home page. Note : Please go to Setting => Reading, Select \"A static page\" then \"Front page\" and \"Posts page\" to show added widgets"
+msgstr "Отображает виджеты на главной странице. Примечание. Перейдите в «Настройки => Чтение», выберите «Статическая страница», затем «Главная страница» и «Страница записей», чтобы показать добавленные виджеты"
+
+#: acmethemes/sidebar-widget/sidebar.php:116
+msgid "Displays widgets on home page main content area.%1$s Note : Please go to %2$s \"Static Front Page\"%3$s setting, Select \"A static page\" then \"Front page\" and \"Posts page\" to show added widgets"
+msgstr "Отображает виджеты в главной области содержимого главной страницы.%1$s Примечание. Пожалуйста, перейдите в %2$s«Настройки главной страница»%3$s, выберите «Статическая страница», затем «Главная страница» и «Страница записей», чтобы показать добавленные виджеты"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1099
+msgid "Do not forget to install WooCommerce"
+msgstr "Не забудьте установить WooCommerce"
+
+#: functions.php:69
+msgid "domain@example.com "
+msgstr "domain@example.com "
+
+#: acmethemes/sidebar-widget/acme-contact.php:63
+msgid "Download contact form 7 from %1$shere%2$s"
+msgstr "Скачать contact form 7 с %1$sздесь%2$s"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1145
+msgid "Download Demo Content"
+msgstr "Загрузить демо содержимое"
+
+#. translators: %s: Name of current post
+#: acmethemes/core/template-tags.php:76 template-parts/content-page.php:37
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:95
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:373
+#: acmethemes/metabox/meta-icons.php:46
+msgid "Edit Icon"
+msgstr "Изменить значок"
+
+#: functions.php:72
+msgid "Elmonte California"
+msgstr "Элмонт, Калифорния"
+
+#: acmethemes/hooks/comment-forms.php:18
+msgid "Email"
+msgstr "Email"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:66
+msgid "Enable Animation"
+msgstr "Включить анимацию"
+
+#: acmethemes/customizer/options/breadcrumb.php:18
+msgid "Enable Breadcrumb"
+msgstr "Включить цепочку навигации"
+
+#: acmethemes/customizer/header-options/menu-options.php:80
+msgid "Enable Cart"
+msgstr "Включить корзину"
+
+#: acmethemes/customizer/feature-section/feature-enable.php:6
+#: acmethemes/customizer/feature-section/feature-enable.php:18
+msgid "Enable Feature Section"
+msgstr "Включить раздел Функции"
+
+#: acmethemes/customizer/header-options/header-top.php:28
+msgid "Enable Header Top Options"
+msgstr "Включить опции верхней части заголовка"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:231
+msgid "Enable Prev - Next on Carousel Column"
+msgstr "Включить предыдущий – следующий в колонке карусели"
+
+#: acmethemes/customizer/header-options/menu-options.php:65
+msgid "Enable Sticky Menu"
+msgstr "Включить прилепленное меню"
+
+#: acmethemes/customizer/header-options/menu-options.php:49
+msgid "Enable Transparent Menu"
+msgstr "Включить прозрачное меню"
+
+#: acmethemes/customizer/header-options/menu-options.php:50
+msgid "Enabling Transparent Menu automatically enable Sticky Menu"
+msgstr "Включение прозрачного меню авто включает липкое меню"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:52
+#: acmethemes/sidebar-widget/acme-col-posts.php:74
+#: acmethemes/sidebar-widget/acme-contact.php:52
+#: acmethemes/sidebar-widget/acme-gallery.php:50
+#: acmethemes/sidebar-widget/acme-parallax.php:59
+#: acmethemes/sidebar-widget/acme-service.php:55
+#: acmethemes/sidebar-widget/acme-social.php:47
+#: acmethemes/sidebar-widget/acme-team.php:52
+#: acmethemes/sidebar-widget/acme-testimonial.php:50
+msgid "Enter a Unique Section ID. You can use this ID in Menu item for enabling One Page Menu."
+msgstr "Введите ID раздела. Вы можете использовать этот ID в пункте меню для включения одностраничного меню."
+
+#: acmethemes/customizer/options/social-options.php:34
+msgid "Enter Link"
+msgstr "Введите ссылку"
+
+#: acmethemes/sidebar-widget/acme-contact.php:59
+msgid "Enter Shortcode"
+msgstr "Вставьте шорткод"
+
+#: acmethemes/customizer/customizer-core.php:198
+#: acmethemes/sidebar-widget/sidebar.php:93
+msgid "Excerpt"
+msgstr "Отрывок"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: acmethemes/sidebar-widget/acme-parallax.php:87
+#: acmethemes/sidebar-widget/acme-parallax.php:95
+msgid "Extra Button Text"
+msgstr "Текст дополнительной кнопки"
+
+#: acmethemes/customizer/single-posts/feature-image.php:5
+msgid "Feature Image Option"
+msgstr "Опция Изображение особенности"
+
+#: acmethemes/customizer/feature-section/feature-info.php:6
+msgid "Feature Info"
+msgstr "Информация об особенностях"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1151
+msgid "Feature Section is now Showing"
+msgstr "Раздел Особенности теперь отображается"
+
+#: acmethemes/customizer/feature-section/feature-enable.php:19
+msgid "Feature section will display on front/home page. Feature Section includes Feature Slider and Feature Column.%1$s Note : Please go to %2$s \"Static Front Page\"%3$s setting, Select \"A static page\" then \"Front page\" and \"Posts page\" to enable it"
+msgstr ""
+"Раздел секции главного будет отображаться на главной странице. Раздел включает слайдер и колонки главной информации.\n"
+"\n"
+"%1$s Примечание. Перейдите к настройке %2$s«Настройки главной страницы»%3$s выберите «Статическая страница», затем «Главная страница» и «Страница записей», чтобы включить ее."
+
+#: acmethemes/customizer/feature-section/feature-slider.php:107
+msgid "Feature Slider Image Display Options"
+msgstr "Настройки показа изображений слайдера"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:6
+msgid "Feature Slider Selection"
+msgstr "Секция слайдера"
+
+#: acmethemes/metabox/meta-icons.php:16
+msgid "Featured Icon"
+msgstr "Иконка"
+
+#: acmethemes/customizer/feature-section/feature-info.php:52
+msgid "First Info"
+msgstr "Первые инфоданные"
+
+#: acmethemes/customizer/design-options/colors-options.php:54
+msgid "Footer Background Color"
+msgstr "Цвет фона нижней области виджетов"
+
+#: acmethemes/customizer/footer-options/footer-bg-img.php:7
+#: acmethemes/customizer/footer-options/footer-bg-img.php:22
+msgid "Footer Background Image"
+msgstr "Фоновое изображение подвала"
+
+#: acmethemes/customizer/design-options/colors-options.php:74
+msgid "Footer Bottom Background Color"
+msgstr "Цвет нижнего колонтитула"
+
+#: acmethemes/sidebar-widget/sidebar.php:172
+msgid "Footer Column Four"
+msgstr "Четвертая область виджетов в подвале"
+
+#: acmethemes/sidebar-widget/sidebar.php:142
+msgid "Footer Column One"
+msgstr "Первый столбец подвала"
+
+#: acmethemes/sidebar-widget/sidebar.php:162
+msgid "Footer Column Three"
+msgstr "Третий столбец подвала"
+
+#: acmethemes/sidebar-widget/sidebar.php:152
+msgid "Footer Column Two"
+msgstr "Второй столбец подвала"
+
+#: acmethemes/customizer/footer-options/footer-copyright.php:32
+msgid "Footer Copyright Beside Option"
+msgstr "Область в левой части секции"
+
+#: acmethemes/customizer/customizer-core.php:158
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: acmethemes/core.php:59
+msgid "Footer Menu ( Support First Level Only )"
+msgstr "Меню нижнего колонтитула (поддерживается только первый уровень)"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1113
+#: acmethemes/at-theme-info/class-at-theme-info.php:1144
+msgid "For the demo content installation, install the Acme Demo Setup plugin and other Recommended plugins, download demo content from %1$s here %2$s. Then go to \"Acme Demo Setup\" and import demo. "
+msgstr "Для установки демо-контента установите плагин Acme Demo Setup и другие рекомендуемые плагины, загрузите демо-контент с %1$s здесь %2$s. Затем перейдите в «Acme Demo Setup» и импортируйте демо. "
+
+#: acmethemes/customizer/feature-section/feature-info.php:233
+msgid "Forth Info"
+msgstr "Четвёртые инфоданные"
+
+#: acmethemes/customizer/design-options/front-page-content.php:17
+msgid "Front Page Content Options"
+msgstr "Настройки контента главной страницы"
+
+#: acmethemes/customizer/design-options/front-page-sidebar-layout.php:6
+#: acmethemes/customizer/design-options/front-page-sidebar-layout.php:19
+msgid "Front/Home Sidebar Layout"
+msgstr "Макет области виджетов на главной/домашней"
+
+#: acmethemes/customizer/customizer-core.php:225
+msgid "full (original)"
+msgstr "полный (оригинал)"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:102
+#: acmethemes/sidebar-widget/acme-gallery.php:99
+#: acmethemes/sidebar-widget/acme-service.php:105
+#: acmethemes/sidebar-widget/acme-team.php:101
+#: acmethemes/sidebar-widget/acme-testimonial.php:116
+#: acmethemes/sidebar-widget/sidebar.php:212
+msgid "Full Edit"
+msgstr "Изменить"
+
+#: acmethemes/customizer/customizer-core.php:96
+msgid "Full Screen Background"
+msgstr "На весь экран"
+
+#: acmethemes/sidebar-widget/sidebar.php:72
+msgid "Gallery"
+msgstr "Галерея"
+
+#: acmethemes/sidebar-widget/sidebar.php:31
+msgid "Gray"
+msgstr "Серый"
+
+#: acmethemes/customizer/header-options/header-panel.php:63
+msgid "Header Image Display"
+msgstr "Отображение изображения заголовка"
+
+#: acmethemes/customizer/single-posts/header-title.php:17
+msgid "Header Title"
+msgstr "Заголовок в шапке"
+
+#: acmethemes/customizer/header-options/header-top.php:17
+msgid "Header Top"
+msgstr "Верхний колонтитул"
+
+#: acmethemes/customizer/design-options/colors-options.php:33
+msgid "Header Top Background Color"
+msgstr "Цвет верхнего колонтитула"
+
+#: acmethemes/metabox/metabox-defaults.php:117
+msgid "here"
+msgstr "здесь"
+
+#: acmethemes/customizer/customizer-core.php:14
+#: acmethemes/customizer/customizer-core.php:54
+#: acmethemes/customizer/customizer-core.php:115
+#: acmethemes/customizer/customizer-core.php:156
+msgid "Hide"
+msgstr "Скрыть"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1164
+msgid "Hide credit text on Footer"
+msgstr "Скрыть текст кредита в подвале"
+
+#. translators: 1: plugin name.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3509
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть подробности"
+
+#: acmethemes/customizer/design-options/front-page-content.php:29
+msgid "Hide Front Page Content"
+msgstr "Скрыть содержимое главной страницы"
+
+#: acmethemes/customizer/design-options/front-page-content.php:43
+msgid "Hide Front Page Header"
+msgstr "Скрыть заголовок главной страницы"
+
+#: acmethemes/customizer/customizer.php:85
+msgid "Home Main Content Area "
+msgstr "Основная область содержимого главной "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1092
+#: acmethemes/sidebar-widget/sidebar.php:122
+msgid "Home Main Content Area"
+msgstr "Основная область содержимого главной"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1142
+msgid "How to Setup Site like Demo"
+msgstr "Как настроить сайт как демо"
+
+#: acmethemes/customizer/feature-section/feature-info.php:69
+#: acmethemes/customizer/feature-section/feature-info.php:129
+#: acmethemes/customizer/feature-section/feature-info.php:189
+#: acmethemes/customizer/feature-section/feature-info.php:249
+msgid "Icon"
+msgstr "Значок"
+
+#: acmethemes/functions.php:196
+msgid "ID"
+msgstr "ID"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:170
+msgid "Image Popup Type"
+msgstr "Тип всплывающего изображения"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:279
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:403
+#: acmethemes/sidebar-widget/acme-parallax.php:80
+#: acmethemes/sidebar-widget/acme-testimonial.php:63
+msgid "Image preview"
+msgstr "Предварительный просмотр изображения"
+
+#: acmethemes/customizer/single-posts/feature-image.php:18
+msgid "Image Size"
+msgstr "Размер изображения"
+
+#: acmethemes/customizer/header-options/header-panel.php:41
+msgid "Inner Page Header Section Height"
+msgstr "Высота заголовка главной страницы"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1101
+msgid "Install Recommended Plugins"
+msgstr "Установить рекомендуемые плагины"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: 404.php:34
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже, что здесь ничего не найдено. Пожалуйста, попробуйте использовать поиск или одну из предложенных ссылок."
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поможет поиск."
+
+#: acmethemes/customizer/design-options/design-panel.php:6
+msgid "Layout/Design Option"
+msgstr "Параметры макета/дизайна"
+
+#: acmethemes/sidebar-widget/acme-parallax.php:23
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: acmethemes/core/template-tags.php:68
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: acmethemes/customizer/customizer-core.php:76
+msgid "Left"
+msgstr "Слева"
+
+#: acmethemes/customizer/customizer-core.php:177
+#: acmethemes/sidebar-widget/sidebar.php:132
+msgid "Left Sidebar"
+msgstr "Левая область виджетов"
+
+#: acmethemes/customizer/design-options/colors-options.php:89
+msgid "Link Color"
+msgstr "Цвет ссылки"
+
+#: acmethemes/customizer/design-options/colors-options.php:102
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1423
+msgid "Menu and Logo Location"
+msgstr "Расположение меню и логотипа"
+
+#: acmethemes/functions.php:203
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: acmethemes/customizer/customizer-core.php:179
+msgid "Middle Column"
+msgstr "Средний столбец"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Минимально требуемая версия:"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:281
+msgid "Minute %s"
+msgstr "%s за минуту"
+
+#: acmethemes/functions.php:200
+msgid "Modified Date"
+msgstr "Дата изменения"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1435
+msgid "Multiple Header Type"
+msgstr "Несколько типов заголовков"
+
+#: acmethemes/hooks/comment-forms.php:17
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:55 comments.php:75
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#. translators: 1: plugin name.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: acmethemes/customizer/customizer-core.php:220
+msgid "No Image"
+msgstr "Нет изображения"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: acmethemes/customizer/customizer-core.php:180
+msgid "No Sidebar"
+msgstr "Без области виджетов"
+
+#: acmethemes/functions.php:195
+msgid "None"
+msgstr "Нет"
+
+#: acmethemes/functions.php:156
+msgid "Normal Column"
+msgstr "Обычная колонка"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:236
+#: acmethemes/sidebar-widget/acme-gallery.php:184
+msgid "Normal Featured Post Image"
+msgstr "Изображение нормальной рекомендуемой записи"
+
+#: acmethemes/customizer/customizer-core.php:16
+msgid "Normal Image"
+msgstr "Обычное изображение"
+
+#: acmethemes/functions.php:309
+msgid "Normal Link"
+msgstr "Обычная ссылка"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установленный"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:262
+msgid "Note: Some of the features only work in \"Home main content area\" due to minimum width in other areas."
+msgstr "Примечание: Некоторые функции работают только в области \"Область основного контента главной\" из-за минимальной ширины в других областях."
+
+#: acmethemes/sidebar-widget/acme-contact.php:98
+msgid "Number of page words in content"
+msgstr "Количество слов в содержимом страницы"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:143
+msgid "Number of posts to show"
+msgstr "Количество записей для показа"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:173
+#: acmethemes/sidebar-widget/acme-service.php:176
+#: acmethemes/sidebar-widget/acme-team.php:171
+#: acmethemes/sidebar-widget/acme-testimonial.php:186
+msgid "Number of words in content"
+msgstr "Количество слов в содержимом"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:162
+msgid "Number of words on content"
+msgstr "Количество слов в содержимом"
+
+#: acmethemes/customizer/customizer-core.php:249
+msgid "Numeric"
+msgstr "Числовые"
+
+#: functions.php:77
+msgid "Office Hours"
+msgstr "Часы работы"
+
+#: comments.php:54 comments.php:74
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: acmethemes/customizer/customizer-core.php:55
+msgid "on Top Left"
+msgstr "Вверху слева"
+
+#: acmethemes/customizer/customizer-core.php:56
+msgid "on Top Right"
+msgstr "Вверху справа"
+
+#: acmethemes/customizer/customizer-core.php:36
+msgid "One Link"
+msgstr "Одна ссылка"
+
+#: acmethemes/core.php:58
+msgid "One Page Menu for Front Page"
+msgstr "Меню одной страницы для главной страницы"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Thought to &ldquo;%s&rdquo;"
+msgstr "Одна мысль о &ldquo;%s&rdquo;"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Страница не найдена."
+
+#: acmethemes/functions.php:310
+msgid "Open in New Tab"
+msgstr "Открыть в новой вкладке"
+
+#: acmethemes/customizer/options/social-options.php:38
+msgid "Open in New Window"
+msgstr "Открыть в новом окне"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1430
+msgid "Options to popup widget via Popup Widget Area on Header Top Section."
+msgstr "Опции для всплывающего виджета через Popup Widget Area в верхней секции заголовка."
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:200
+#: acmethemes/sidebar-widget/acme-col-posts.php:215
+msgid "Order by"
+msgstr "Сортировать по"
+
+#: functions.php:71
+msgid "Our Location"
+msgstr "Наше местоположение"
+
+#: acmethemes/sidebar-widget/acme-contact.php:85
+msgid "Page Content From"
+msgstr "Содержимое страницы из"
+
+#: acmethemes/customizer/design-options/blog-layout.php:87
+msgid "Pagination Options"
+msgstr "Параметры пагинации"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Пожалуйста, обратитесь к администратору этого сайта за помощью."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:934
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Пожалуйста, обратитесь к поставщику плагина с просьбой создать пакет своего плагина в соответствии с руководством WordPress."
+
+#: acmethemes/sidebar-widget/acme-accordion.php:176
+#: acmethemes/sidebar-widget/acme-col-posts.php:166
+#: acmethemes/sidebar-widget/acme-contact.php:101
+#: acmethemes/sidebar-widget/acme-service.php:179
+#: acmethemes/sidebar-widget/acme-team.php:174
+#: acmethemes/sidebar-widget/acme-testimonial.php:189
+msgid "Please enter -1 to show full content or 0 to show none"
+msgstr "Введите -1, чтобы показать все содержимое, или 0, чтобы не показывать ничего"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1163
+msgid "Please visit the blog post to know more about it."
+msgstr "Посетите эту статью в блоге, чтобы узнать об этом больше."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:387
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#. translators: 1: plugin name.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Пожалуйста, обновите плагин."
+
+#: acmethemes/sidebar-widget/sidebar.php:182
+msgid "Popup Widget Area"
+msgstr "Область всплывающего виджета"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1429
+msgid "Popup Widget on Header"
+msgstr "Всплывающий виджет в заголовке"
+
+#: acmethemes/customizer/customizer-core.php:35
+msgid "Popup Widgets ( Booking Form )"
+msgstr "Всплывающие виджеты (форма бронирования)"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1424
+msgid "Position of menu and logo section on header."
+msgstr "Положение раздела меню и логотипа в хедере."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: acmethemes/customizer/customizer-pro/class-customize.php:75
+msgid "Premium Version"
+msgstr "Премиум версия"
+
+#: acmethemes/customizer/design-options/colors-options.php:14
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: acmethemes/core.php:57
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: acmethemes/customizer/wc-options/shop-archive.php:32
+msgid "Products Per Row"
+msgstr "Товар на строку"
+
+#: acmethemes/functions.php:201
+msgid "Random"
+msgstr "Случайный"
+
+#: acmethemes/customizer/design-options/blog-layout.php:72
+msgid "Read More Text"
+msgstr "Текст Читать далее"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1358
+msgid "Related post will appear on single post of each blog article"
+msgstr "Похожие записи будут появляться в отдельных публикациях каждой статьи блога"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:96
+#: acmethemes/sidebar-widget/acme-accordion.php:144
+#: acmethemes/sidebar-widget/acme-gallery.php:93
+#: acmethemes/sidebar-widget/acme-gallery.php:141
+#: acmethemes/sidebar-widget/acme-service.php:99
+#: acmethemes/sidebar-widget/acme-service.php:147
+#: acmethemes/sidebar-widget/acme-team.php:95
+#: acmethemes/sidebar-widget/acme-team.php:143
+#: acmethemes/sidebar-widget/acme-testimonial.php:110
+#: acmethemes/sidebar-widget/acme-testimonial.php:158
+msgid "Remove"
+msgstr "Удалить"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:283
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:407
+#: acmethemes/sidebar-widget/acme-parallax.php:84
+#: acmethemes/sidebar-widget/acme-testimonial.php:67
+msgid "Remove Image"
+msgstr "Удалить изображение"
+
+#: acmethemes/functions/primary-menu.php:22 functions.php:50 functions.php:121
+msgid "Request a Quote"
+msgstr "Сделать запрос"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: acmethemes/customizer/customizer-core.php:97
+msgid "Responsive Image"
+msgstr "Адаптивное изображение"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:386
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:827
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2533
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#: acmethemes/customizer/customizer-core.php:77
+msgid "Right"
+msgstr "Справа"
+
+#: acmethemes/customizer/customizer-core.php:176
+#: acmethemes/sidebar-widget/sidebar.php:107
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#: acmethemes/customizer/options/search.php:6 functions.php:123
+msgid "Search"
+msgstr "Поиск"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:99
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:257
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:377
+#: acmethemes/metabox/meta-icons.php:50
+msgid "Search Icon"
+msgstr "Значок поиска"
+
+#: acmethemes/customizer/options/search.php:17
+msgid "Search Placeholder"
+msgstr "Заполнитель поля поиска"
+
+#: acmethemes/customizer/feature-section/feature-info.php:113
+msgid "Second Info"
+msgstr "Вторичная информация"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:49
+#: acmethemes/sidebar-widget/acme-col-posts.php:71
+#: acmethemes/sidebar-widget/acme-contact.php:49
+#: acmethemes/sidebar-widget/acme-gallery.php:47
+#: acmethemes/sidebar-widget/acme-parallax.php:56
+#: acmethemes/sidebar-widget/acme-service.php:52
+#: acmethemes/sidebar-widget/acme-social.php:44
+#: acmethemes/sidebar-widget/acme-team.php:49
+#: acmethemes/sidebar-widget/acme-testimonial.php:47
+msgid "Section ID"
+msgstr "ID раздела"
+
+#: acmethemes/customizer/custom-controls.php:37
+msgid "Select"
+msgstr "Выбрать"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1073
+msgid "Select A static page than Front page and Posts page to enable Slider and Home Main Content Area"
+msgstr "Выберите статическую страницу, а не главную страницу и страницу сообщений, чтобы включить слайдер и основную область содержимого"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1120
+msgid "Select A static page than Front page and Posts page to enable Slider and Home Main Content Area %1$s Static Front Page %2$s "
+msgstr "Выберите статическую страницу, а не главную страницу и страницу сообщений, чтобы включить слайдер и домашнюю область основного содержимого %1$s. Статическая главная страница %2$s. "
+
+#: acmethemes/sidebar-widget/acme-parallax.php:71
+#: acmethemes/sidebar-widget/acme-parallax.php:83
+#: acmethemes/sidebar-widget/acme-testimonial.php:54
+#: acmethemes/sidebar-widget/acme-testimonial.php:66
+msgid "Select Background Image"
+msgstr "Выберите фоновое изображение"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:97
+msgid "Select Category"
+msgstr "Выберите рубрику"
+
+#: acmethemes/customizer/options/social-options.php:30
+msgid "Select Icon"
+msgstr "Выбрать значок"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:282
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:406
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:79
+#: acmethemes/sidebar-widget/acme-accordion.php:127
+#: acmethemes/sidebar-widget/acme-gallery.php:76
+#: acmethemes/sidebar-widget/acme-gallery.php:124
+#: acmethemes/sidebar-widget/acme-service.php:82
+#: acmethemes/sidebar-widget/acme-service.php:130
+#: acmethemes/sidebar-widget/acme-team.php:78
+#: acmethemes/sidebar-widget/acme-team.php:126
+#: acmethemes/sidebar-widget/acme-testimonial.php:93
+#: acmethemes/sidebar-widget/acme-testimonial.php:141
+msgid "Select Item"
+msgstr "Выберите элемент"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:90
+#: acmethemes/sidebar-widget/acme-accordion.php:138
+#: acmethemes/sidebar-widget/acme-contact.php:78
+#: acmethemes/sidebar-widget/acme-gallery.php:87
+#: acmethemes/sidebar-widget/acme-gallery.php:135
+#: acmethemes/sidebar-widget/acme-service.php:93
+#: acmethemes/sidebar-widget/acme-service.php:141
+#: acmethemes/sidebar-widget/acme-team.php:89
+#: acmethemes/sidebar-widget/acme-team.php:137
+#: acmethemes/sidebar-widget/acme-testimonial.php:104
+#: acmethemes/sidebar-widget/acme-testimonial.php:152
+msgid "Select Page"
+msgstr "Выберите страницу"
+
+#: acmethemes/sidebar-widget/acme-contact.php:70
+msgid "Select page and its title and excerpt will display in the frontend. No need of subpages."
+msgstr "Выберите страницу, ее название и выдержка отобразятся в интерфейсе. Нет необходимости в подстраницах."
+
+#: acmethemes/sidebar-widget/acme-contact.php:68
+msgid "Select Page For Contact"
+msgstr "Выберите страницу для контактов"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:36
+msgid "Select Page For Slide"
+msgstr "Выберите страницу для слайда"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:27
+msgid "Select Page For Slider"
+msgstr "Выберите страницу для слайда"
+
+#: acmethemes/sidebar-widget/acme-accordion.php:60
+#: acmethemes/sidebar-widget/acme-gallery.php:57
+#: acmethemes/sidebar-widget/acme-service.php:63
+#: acmethemes/sidebar-widget/acme-team.php:59
+#: acmethemes/sidebar-widget/acme-testimonial.php:74
+msgid "Select Pages"
+msgstr "Выберите страницы"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:30
+msgid "Select Slide of Slider"
+msgstr "Выберите слайд"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:13
+msgid "Select Slider Page"
+msgstr "Выберите страницу слайда"
+
+#: acmethemes/customizer/options/social-options.php:21
+msgid "Select Social Icons and enter link"
+msgstr "Выберите иконку и введите адрес"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:120
+msgid "Select Tag"
+msgstr "Выберите метку"
+
+#: functions.php:68
+msgid "Send Us a Mail"
+msgstr "Отправьте нам письмо"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1154
+msgid "Set Static Page"
+msgstr "Установить статическую страницу"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1119
+msgid "Setting Static Front Page"
+msgstr "Установка статической главной страницы"
+
+#: acmethemes/customizer/wc-options/shop-archive.php:6
+#: acmethemes/customizer/wc-options/shop-archive.php:19
+msgid "Shop Archive Sidebar Layout"
+msgstr "Макет области виджетов архива магазина"
+
+#: acmethemes/sidebar-widget/acme-parallax.php:66
+msgid "Short Description"
+msgstr "Краткое описание"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:83
+msgid "Show"
+msgstr "Показать"
+
+#: acmethemes/sidebar-widget/acme-contact.php:31
+msgid "Show Contact Section."
+msgstr "Показывать раздел Контакты."
+
+#. translators: 1: plugin name.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3509
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:30
+msgid "Show Gallery Section."
+msgstr "Показывать раздел Галерея."
+
+#: acmethemes/sidebar-widget/acme-parallax.php:37
+msgid "Show Parallax Section."
+msgstr "Показать раздел Параллакс."
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:46
+msgid "Show posts from selected category with advanced options"
+msgstr "Показывать сообщения из выбранной категории с расширенными опциями"
+
+#: acmethemes/sidebar-widget/acme-service.php:32
+msgid "Show Section with beautiful Icons."
+msgstr "Показать раздел с красивыми значками."
+
+#: acmethemes/sidebar-widget/acme-team.php:31
+msgid "Show Team Section."
+msgstr "Показывать раздел Команда."
+
+#: acmethemes/sidebar-widget/acme-testimonial.php:30
+msgid "Show Testimonial Section."
+msgstr "Показывать раздел Отзывы."
+
+#: acmethemes/metabox/metabox-defaults.php:56
+#: acmethemes/metabox/metabox-defaults.php:65
+msgid "Sidebar Layout"
+msgstr "Макет области виджетов"
+
+#: acmethemes/customizer/design-options/archive-sidebar-layout.php:20
+msgid "Sidebar Layout for listing pages like category, author etc"
+msgstr "Макет области виджетов для страниц объявлений, таких как категория, автор и т.д"
+
+#: acmethemes/sidebar-widget/sidebar.php:73
+msgid "Single"
+msgstr "Отдельная"
+
+#: acmethemes/customizer/design-options/sidebar-layout.php:20
+msgid "Single Page/Post Sidebar"
+msgstr "Макет одиночной страницы/записи"
+
+#: acmethemes/customizer/single-posts/single-post-panel.php:6
+msgid "Single Post Option"
+msgstr "Параметры одиночной записи"
+
+#: acmethemes/customizer/wc-options/single-product.php:6
+msgid "Single Product"
+msgstr "Отдельный товар"
+
+#: acmethemes/customizer/wc-options/single-product.php:19
+msgid "Single Product Sidebar Layout"
+msgstr "Макет области виджетов для отдельного товара"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:26
+msgid "Slider Selection"
+msgstr "Выбор слайдера"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:122
+msgid "Slider Text Align"
+msgstr "Выравнивание текста в слайдере"
+
+#: acmethemes/customizer/header-options/header-top.php:96
+msgid "Social Display"
+msgstr "Отображение соцсети"
+
+#: acmethemes/customizer/options/social-options.php:24
+msgid "Social Icon"
+msgstr "Значок соцсетей"
+
+#: acmethemes/customizer/customizer-core.php:157
+msgid "Social Links"
+msgstr "Ссылки соцсетей"
+
+#: acmethemes/customizer/options/social-options.php:20
+msgid "Social Options Selection"
+msgstr "Выбор варианты соцсетей"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагинов."
+
+#: 404.php:33
+msgid "Sorry! We could not found that page"
+msgstr "Извините! Мы не смогли найти эту страницу"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но по вашему запросу ничего не найдено. Пожалуйста, попробуйте поискать с другим запросом."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: acmethemes/customizer/header-options/menu-options.php:99
+msgid "Special Button On Menu Right"
+msgstr "Специальная кнопка справа от меню"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1074
+msgid "Static Front Page"
+msgstr "Статическая главная страница"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Состояние"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1072
+msgid "Step 3: Setting Static Front Page"
+msgstr "Шаг 3: Настройка статической главной страницы"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1081
+msgid "Step 4 : Setting Featured Section "
+msgstr "Шаг 4: Настройка избранного раздела "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1090
+msgid "Step 5 : Setting Home Main Content Area "
+msgstr "Шаг 5: Настройка главной области содержимого "
+
+#: acmethemes/sidebar-widget/acme-accordion.php:31
+msgid "Suitable for FAQ and or other Accordion"
+msgstr "Подходит для FAQ и/или другого аккордеона"
+
+#: acmethemes/functions.php:177
+msgid "Tags"
+msgstr "Метки"
+
+#. translators: %s: version number
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:388
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Этот плагин активирован:"
+msgstr[1] "Эти плагины активированы:"
+msgstr[2] "Эти плагины активированы:"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Внешний пакет плагина содержит более одного файла вне отдельной папки."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Внешний пакет плагина не содержит папку с требуемым ярлыком и переименование не сработало."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: acmethemes/customizer/feature-section/feature-info.php:173
+msgid "Third Info"
+msgstr "Третьи инфоданные"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Для совместимости с темой требуется обновление этого плагина."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1364
+msgid "This will appear on single post."
+msgstr "Это будет отображаться в отдельной записи."
+
+#: acmethemes/customizer/feature-section/feature-info.php:83
+#: acmethemes/customizer/feature-section/feature-info.php:143
+#: acmethemes/customizer/feature-section/feature-info.php:203
+#: acmethemes/customizer/feature-section/feature-info.php:263
+#: acmethemes/functions.php:198 acmethemes/sidebar-widget/acme-accordion.php:55
+#: acmethemes/sidebar-widget/acme-col-posts.php:78
+#: acmethemes/sidebar-widget/acme-contact.php:55
+#: acmethemes/sidebar-widget/acme-gallery.php:53
+#: acmethemes/sidebar-widget/acme-parallax.php:62
+#: acmethemes/sidebar-widget/acme-service.php:58
+#: acmethemes/sidebar-widget/acme-social.php:50
+#: acmethemes/sidebar-widget/acme-team.php:55
+#: acmethemes/sidebar-widget/acme-testimonial.php:70
+msgid "Title"
+msgstr "Название"
+
+#. translators: 1: number of plugins.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации: <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации: <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации: <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки: <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки: <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки: <span class=\"count\">(%s)</span>"
+
+#: acmethemes/core.php:56
+msgid "Top Menu ( Support First Level Only )"
+msgstr "Верхнее меню (только поддержка первого уровня)"
+
+#: acmethemes/customizer/header-options/header-top.php:64
+msgid "Top Menu Display"
+msgstr "Отображение верхнего меню"
+
+#: acmethemes/customizer/wc-options/shop-archive.php:45
+msgid "Total Products Per Page"
+msgstr "Всего товаров на странице"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1270
+msgid "Unlimited +"
+msgstr "Неограниченно +"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1299
+msgid "Unlimited Page"
+msgstr "Неограниченная страница"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1300
+msgid "Unlimited Page, Custom or Third Party"
+msgstr "Неограниченное количество страниц, пользовательских или сторонних"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1347
+#: acmethemes/at-theme-info/class-at-theme-info.php:1348
+msgid "Unlimited with multiple Options"
+msgstr "Неограниченное количество опций"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#. translators: 1: number of plugins.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление: <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступно обновление: <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступно обновление: <span class=\"count\">(%s)</span>"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: acmethemes/customizer/customizer-pro/class-customize.php:76
+msgid "Upgrade To Pro"
+msgstr "Обновиться до PRO-версии"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:282
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:406
+#: acmethemes/sidebar-widget/acme-parallax.php:83
+#: acmethemes/sidebar-widget/acme-testimonial.php:66
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: acmethemes/customizer/feature-section/feature-info.php:95
+#: acmethemes/customizer/feature-section/feature-info.php:155
+#: acmethemes/customizer/feature-section/feature-info.php:215
+#: acmethemes/customizer/feature-section/feature-info.php:275
+msgid "Very Short Description"
+msgstr "Очень короткое описание"
+
+#: acmethemes/hooks/comment-forms.php:19
+msgid "Website URL"
+msgstr "URL-адрес веб-сайта"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: acmethemes/library/breadcrumbs/breadcrumbs.php:283
+msgid "Week %s"
+msgstr "%s за неделю"
+
+#: acmethemes/customizer/wc-options/wc-panel.php:6
+msgid "WooCommerce Options"
+msgstr "Параметры WooCommerce"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Каталог WordPress"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1091
+msgid "You can Add, Edit, Remove or Drag, Drop, Reorder widgets on Home Main Content Area. Please do the Step 3 before this."
+msgstr "Вы можете добавлять, редактировать, удалять или перетаскивать, изменять порядок виджетов в области главного содержимого. Перед этим выполните Шаг 3."
+
+#: acmethemes/metabox/metabox-defaults.php:117
+msgid "You can set up the sidebar content"
+msgstr "Вы можете настроить содержимое области виджетов"
+
+#: acmethemes/customizer/design-options/front-page-content.php:30
+msgid "You may want to hide front page content and want to show only Feature section and Home Widgets. Check this to hide front page content."
+msgstr "Вы можете скрыть содержимое главной страницы и показать только главную секцию и виджеты домашней страницы темы. Отметьте чтобы скрыть содержимое главной страницы."
+
+#: acmethemes/customizer/design-options/front-page-content.php:44
+msgid "You may want to hide front page header and want to show only Feature section and Home Widgets. Check this to hide front page Header."
+msgstr "Вы можете скрыть заголовок главной страницы и показать только главную секцию и виджеты домашней страницы темы. Отметьте чтобы скрыть заголовок главной страницы."
+
+#: acmethemes/functions.php:52
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:600
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:298
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:423
+msgid "|"
+msgstr "|"
+
+#: acmethemes/hooks/header-helper.php:52
+msgid "Recent posts"
+msgstr "Свежие записи"
+
+#: acmethemes/customizer/options/options-panel.php:6
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "acmethemes"
+msgstr "acmethemes"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.acmethemes.com/"
+msgstr "https://www.acmethemes.com/"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.acmethemes.com/themes/beauty-studio"
+msgstr "https://www.acmethemes.com/themes/beauty-studio"

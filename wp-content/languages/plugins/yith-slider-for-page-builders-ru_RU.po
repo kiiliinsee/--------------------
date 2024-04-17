@@ -1,0 +1,438 @@
+# Translation of Plugins - YITH Slider for page builders - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - YITH Slider for page builders - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-28 17:08:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-beta.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - YITH Slider for page builders - Development (trunk)\n"
+
+#: include/sliders.php:711
+msgid "Post creation failed, could not find original post"
+msgstr "Ошибка создания записи, не удалось найти исходную запись"
+
+#: include/sliders.php:656
+msgid "No post to duplicate has been found!"
+msgstr "Не найдено ни одной записи для дублирования!"
+
+#: include/sliders.php:79
+msgid "< Back to parent slider"
+msgstr "< Вернуться к родительскому слайдеру"
+
+#: include/sliders.php:78
+msgid "Content below the dotted line will be hidden."
+msgstr "Содержимое под пунктирной линией будет скрыто."
+
+#: include/sliders.php:77
+msgid "Change slider height >"
+msgstr "Изменить высоту слайдера>"
+
+#: include/sliders.php:76
+msgid "Slider height:"
+msgstr "Высота слайдера:"
+
+#: include/class-yith-sliders-metabox.php:138
+msgid "Drag to order"
+msgstr "Перетащите, чтобы заказать"
+
+#: include/class-yith-sliders-metabox.php:137
+msgid "Delete"
+msgstr "Удалить"
+
+#: include/class-yith-sliders-metabox.php:136
+msgid "Duplicate"
+msgstr "Копировать"
+
+#: include/class-yith-sliders-metabox.php:135
+msgid "Edit"
+msgstr "Изменить"
+
+#: include/class-yith-sliders-metabox.php:366
+msgid "Slider content height"
+msgstr "Высота содержимого слайдера"
+
+#: include/class-yith-sliders-metabox.php:409
+msgid "fullscreen"
+msgstr "на весь экран"
+
+#: include/class-yith-sliders-metabox.php:402
+msgid "fullwidth"
+msgstr "На всю ширину"
+
+#: include/class-yith-sliders-metabox.php:388
+msgid "boxed"
+msgstr "В контейнере"
+
+#: include/class-yith-sliders-metabox.php:381
+#: include/class-yith-sliders-metabox.php:395
+msgid "fluid"
+msgstr "растянутый"
+
+#: include/class-yith-sliders-metabox.php:380
+msgid "Slider layout"
+msgstr "Макет слайдера"
+
+#: include/class-yith-sliders-metabox.php:352
+msgid "Slider content max width"
+msgstr "Максимальная ширина содержимого слайдера"
+
+#: include/class-yith-sliders-metabox.php:338
+msgid "Infinite sliding"
+msgstr "бесконечное скольжение"
+
+#: include/class-yith-sliders-metabox.php:324
+msgid "Autoplay timing"
+msgstr "Время автозапуска"
+
+#: include/class-yith-sliders-metabox.php:312
+#: include/class-yith-sliders-metabox.php:339
+msgid "ON"
+msgstr "ВКЛ"
+
+#: include/class-yith-sliders-metabox.php:311
+msgid "Autoplay"
+msgstr "Автовоспроизведение"
+
+#: include/class-yith-sliders-metabox.php:304
+msgid "style 4"
+msgstr "стиль 4"
+
+#: include/class-yith-sliders-metabox.php:268
+msgid "Bullet navigation style"
+msgstr "Стиль навигации по страницам"
+
+#: include/class-yith-sliders-metabox.php:261
+msgid "Prev/Next slides visible"
+msgstr "Предыдущий/следующий слайды видны"
+
+#: include/class-yith-sliders-metabox.php:254
+#: include/class-yith-sliders-metabox.php:297
+msgid "style 3"
+msgstr "стиль 3"
+
+#: include/class-yith-sliders-metabox.php:247
+#: include/class-yith-sliders-metabox.php:290
+msgid "style 2"
+msgstr "стиль 2"
+
+#: include/class-yith-sliders-metabox.php:233
+#: include/class-yith-sliders-metabox.php:276
+msgid "none"
+msgstr "отсутствует"
+
+#: include/class-yith-sliders-metabox.php:226
+#: include/class-yith-sliders-metabox.php:240
+#: include/class-yith-sliders-metabox.php:269
+#: include/class-yith-sliders-metabox.php:283
+msgid "style 1"
+msgstr "стиль 1"
+
+#: include/class-yith-sliders-metabox.php:225
+msgid "Navigation arrows style"
+msgstr "Стиль навигационных стрелок"
+
+#: include/class-yith-sliders-metabox.php:218
+msgid "fade"
+msgstr "затемнение"
+
+#: include/class-yith-sliders-metabox.php:204
+#: include/class-yith-sliders-metabox.php:211
+msgid "slide"
+msgstr "слайд"
+
+#: include/class-yith-sliders-metabox.php:204
+#: include/class-yith-sliders-metabox.php:226
+#: include/class-yith-sliders-metabox.php:269
+#: include/class-yith-sliders-metabox.php:312
+#: include/class-yith-sliders-metabox.php:325
+#: include/class-yith-sliders-metabox.php:339
+#: include/class-yith-sliders-metabox.php:353
+#: include/class-yith-sliders-metabox.php:367
+#: include/class-yith-sliders-metabox.php:381
+msgid "Default value: "
+msgstr "Значение по умолчанию: "
+
+#: include/class-yith-sliders-metabox.php:203
+msgid "Transition type"
+msgstr "Тип перехода"
+
+#: include/class-yith-sliders-metabox.php:153
+msgid "Add a title and save the slider to add slides"
+msgstr "Добавьте заголовок и сохраните слайдер для добавления слайдов"
+
+#: include/class-yith-sliders-metabox.php:109
+msgid "Add new slide"
+msgstr "Добавить новый слайд"
+
+#: include/class-yith-sliders-metabox.php:60
+msgid "Manage slider options"
+msgstr "Управление параметрами слайдера"
+
+#: include/class-yith-sliders-metabox.php:52
+msgid "Manage slides"
+msgstr "Управление слайдами"
+
+#: include/sliders.php:558
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: include/sliders.php:471
+msgid "background color"
+msgstr "Фоновый цвет"
+
+#: include/sliders.php:454
+msgid "Background repeat"
+msgstr "Дублирование фона"
+
+#: include/sliders.php:422
+msgid "Background position"
+msgstr "Положение фона"
+
+#: include/sliders.php:408
+msgid "Background size"
+msgstr "Размер фона"
+
+#: include/sliders.php:356
+msgid "Parent slider"
+msgstr "Родительский слайдер"
+
+#: include/class-yith-sliders-metabox.php:68 include/sliders.php:348
+msgid "Background Settings"
+msgstr "Настройки фона"
+
+#: include/sliders.php:317
+msgid "Slide post type"
+msgstr "Тип слайдов"
+
+#: include/sliders.php:313
+msgctxt "single slide background image"
+msgid "Use as background image"
+msgstr "Использовать как фоновое изображение"
+
+#: include/sliders.php:312
+msgctxt "single slide background image"
+msgid "Remove background image"
+msgstr "Удалить фоновое изображение"
+
+#: include/sliders.php:310
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: include/sliders.php:309
+msgid "Filter Slides list"
+msgstr "Фильтровать список слайдов"
+
+#: include/sliders.php:308
+msgid "Slides list navigation"
+msgstr "Навигация по списку слайдов"
+
+#: include/sliders.php:307
+msgid "Slides list"
+msgstr "Список слайдов"
+
+#: include/sliders.php:306
+msgid "Uploaded to this Slide"
+msgstr "Загружено для этого слайда"
+
+#: include/sliders.php:304
+msgid "Slide not found in Trash"
+msgstr "Слайд не найден в корзине"
+
+#: include/sliders.php:303
+msgid "Slide not found"
+msgstr "Слайд не найден"
+
+#: include/sliders.php:302
+msgid "Search Slide"
+msgstr "Поиск слайда"
+
+#: include/sliders.php:301
+msgid "View Slides"
+msgstr "Посмотреть слайды"
+
+#: include/sliders.php:300
+msgid "View Slide"
+msgstr "Посмотреть слайд"
+
+#: include/sliders.php:299
+msgid "Update Slide"
+msgstr "Обновить слайд"
+
+#: include/sliders.php:298
+msgid "Edit Slide"
+msgstr "Редактировать слайд"
+
+#: include/sliders.php:297
+msgid "New Slide"
+msgstr "Новый слайд"
+
+#: include/sliders.php:295 include/sliders.php:296
+msgid "Add New Slide"
+msgstr "Добавить новый слайд"
+
+#: include/sliders.php:294
+msgid "All Slides"
+msgstr "Все слайды"
+
+#: include/sliders.php:292
+msgid "Slide Attributes"
+msgstr "Атрибуты слайдов"
+
+#: include/sliders.php:291
+msgid "Slide Archives"
+msgstr "Архив слайдов"
+
+#: include/sliders.php:290 include/sliders.php:316
+msgid "Slide"
+msgstr "Слайд"
+
+#: include/sliders.php:289
+msgid "Slides"
+msgstr "Слайды"
+
+#: include/sliders.php:288
+msgctxt "Post Type Singular Name"
+msgid "Slide"
+msgstr "Слайд"
+
+#: include/sliders.php:287
+msgctxt "Post Type General Name"
+msgid "Slides"
+msgstr "Слайды"
+
+#: include/sliders.php:256
+msgid "Slider post type"
+msgstr "Тип записей слайдера"
+
+#: include/sliders.php:252
+msgctxt "Slider post type background image"
+msgid "Use as background image"
+msgstr "Использовать как фоновое изображение"
+
+#: include/sliders.php:251
+msgctxt "Slider post type background image"
+msgid "Remove background image"
+msgstr "Удалить фоновое изображение"
+
+#: include/sliders.php:250 include/sliders.php:311
+msgid "Set background image"
+msgstr "Установить фоновое изображение"
+
+#: include/sliders.php:249
+msgid "Slider background image"
+msgstr "Слайдер фоновое изображение"
+
+#: include/sliders.php:248
+msgid "Filter Sliders list"
+msgstr "Фильтр списка слайдеров"
+
+#: include/sliders.php:247
+msgid "Sliders list navigation"
+msgstr "Навигация по списку слайдеров"
+
+#: include/sliders.php:246
+msgid "Sliders list"
+msgstr "Список слайдеров"
+
+#: include/sliders.php:245 include/sliders.php:305
+msgid "Insert into Slider"
+msgstr "Вставить в слайдер"
+
+#: include/sliders.php:244
+msgid "Slider not found in Trash"
+msgstr "Слайдер не найден в корзине"
+
+#: include/sliders.php:243
+msgid "Slider not found"
+msgstr "Слайдер не найден"
+
+#: include/sliders.php:242
+msgid "Search Slider"
+msgstr "Поиск слайдера"
+
+#: include/sliders.php:241
+msgid "View Sliders"
+msgstr "Посмотреть слайдер"
+
+#: include/sliders.php:240
+msgid "View Slider"
+msgstr "Посмотреть слайдер"
+
+#: include/sliders.php:239
+msgid "Update Slider"
+msgstr "Обновить слайдер"
+
+#: include/sliders.php:238
+msgid "Edit Slider"
+msgstr "Редактировать слайдер"
+
+#: include/sliders.php:237
+msgid "New Slider"
+msgstr "Новый слайдер"
+
+#: include/sliders.php:235 include/sliders.php:236
+msgid "Add New Slider"
+msgstr "Добавить новый слайдер"
+
+#: include/sliders.php:234
+msgid "All Sliders"
+msgstr "Все слайдеры"
+
+#: include/sliders.php:233 include/sliders.php:293
+msgid "Parent Slider:"
+msgstr "Родительский слайдер:"
+
+#: include/sliders.php:232
+msgid "Slider Attributes"
+msgstr "Атрибуты слайдера"
+
+#: include/sliders.php:231
+msgid "Slider Archives"
+msgstr "Архив слайдеров"
+
+#: include/sliders.php:230 include/sliders.php:255
+msgid "Slider"
+msgstr "Слайдер"
+
+#: include/sliders.php:229
+msgid "Sliders"
+msgstr "Слайдеры"
+
+#: include/sliders.php:228
+msgctxt "Post Type Singular Name"
+msgid "Slider"
+msgstr "Слайдер"
+
+#: include/sliders.php:227
+msgctxt "Post Type General Name"
+msgid "Sliders"
+msgstr "Слайдеры"
+
+#. Author URI of the plugin
+#: yith-slider-for-page-builders.php
+msgid "https://yithemes.com"
+msgstr "https://yithemes.com"
+
+#. Author of the plugin
+#: yith-slider-for-page-builders.php
+msgid "YITH"
+msgstr "YITH"
+
+#. Description of the plugin
+#: yith-slider-for-page-builders.php
+msgid "This plugin will add cool block oriented sliders to your website. Works with Block Editor."
+msgstr "Этот плагин добавит на ваш сайт классные блочно-ориентированные слайдеры. Работает с редактором блоков."
+
+#. Plugin URI of the plugin
+#: yith-slider-for-page-builders.php
+msgid "https://wordpress.org/plugins/yith-slider-for-page-builders/"
+msgstr "https://ru.wordpress.org/plugins/yith-slider-for-page-builders/"
+
+#. Plugin Name of the plugin
+#: yith-slider-for-page-builders.php include/block/index.js:8
+msgid "YITH Slider for page builders"
+msgstr "YITH Slider for page builders"

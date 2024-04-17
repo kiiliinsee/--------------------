@@ -1,0 +1,19 @@
+<div class="cal-week-box">
+	<div class="cal-row-fluid cal-row-head">
+		<% if(assistants_mode) { %>
+			<div class="<%= cal._cell_class() %>"></div>
+		<% } %>
+		<% _.each(months, function(name) { %>
+			<div class="<%= cal._cell_class() %> <%= cal._getDayClass('week', start) %>" data-toggle="tooltip" title="<%= cal._getHolidayName(start) %>">
+        <a href="#" class="calbar week-calbar" data-toggle="tooltip" data-html="true"
+		   data-day="<%= start.getFullYear() %>-<%= start.getMonthFormatted() %>-<%= start.getDateFormatted() %>"></a>
+<%= name %><br>
+				<small><span data-cal-date="<%= start.getFullYear() %>-<%= start.getMonthFormatted() %>-<%= start.getDateFormatted() %>" data-cal-view="day">
+					<%= start.getDate() %> <%= cal.locale['ms' + start.getMonth()] %></span></small>
+			</div>
+			<% start.setDate(start.getDate() + 1); %>
+		<% }) %>
+	</div>
+	<hr>
+	<%= cal._week() %>
+</div>

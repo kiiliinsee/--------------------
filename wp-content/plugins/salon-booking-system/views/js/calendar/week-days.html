@@ -1,0 +1,133 @@
+<% if(assistants_mode){ %>
+    <% assistants_order.forEach(function(ord, att_id){ %>
+        <div class="cal-row-fluid">
+            <div class="weekday-attendant cal-cell0">
+                <div class="day-highlight dh-attendant"><%= assistants_names[att_id].name %></div>
+            </div>
+            <% _.each([0, 1, 2, 3, 4, 5, 6], function(index){ %>
+                <div class="weekday<%= index %> cal-cell0 <%= (assistants_names[att_id].times.includes(index)) ? '' : 'not-available' %>">
+                    <% _.each(events[att_id], function(event){ console.log(events); %>
+                        <% if(event.start_day == index) { %>
+                            <div class="day-highlight dh-<%= event['class'] %>" 
+                                data-event-class="<%= event['class'] %>" 
+                                data-toggle="tooltip" data-placement="right" 
+                                data-option="day" data-tooltip-id="<%= event.id %>" 
+                                data-html="true" title="<div class='sln-mouth-tooltip'><%= event.title %></div>
+                                <div style='display: grid; margin-top:0.5rem; margin-left:0.7rem;'>
+                                    <span class='sln-value-tooltip' style='text-align: left;'>
+                                        <div class='head-info-tooltip'><%= event.amount %></div>
+                                        <div class='title-info-tooltip'><%= cal.locale.total_amount %></div>
+                                    </span>
+                                    <span class='sln-value-tooltip' id='discount-tooltip' style='text-align: left; margin-top:0.5rem; <%= event.is_pro_version ? '': 'display: none;' %>'>
+                                        <div class='head-info-tooltip'><%= event.is_pro_version ? event.discount : '- -' %></div>
+                                        <div class='title-info-tooltip'><%= cal.locale.discount %></div>
+                                    </span>
+                                    <span class='sln-value-tooltip' id='deposit-tooltip' style='text-align: left; margin-top:0.5rem; <%= event.is_pro_version ? '': 'display: none;' %>'>
+                                        <div class='head-info-tooltip'><%= event.is_pro_version ? event.deposit : '- -' %></div>
+                                        <div class='title-info-tooltip'><%= cal.locale.deposit %></div>
+                                    </span>
+                                    <span class='sln-value-tooltip' id='due-tooltip' style='text-align: left; margin-top:0.5rem; <%= event.is_pro_version ? '': 'display: none;' %>'>
+                                        <div class='head-info-tooltip'><%= event.is_pro_version ? event.due : '- -' %></div>
+                                        <div class='title-info-tooltip'><%= cal.locale.due %></div>
+                                    </span>
+                                </div>
+                                <div class='icons-container' style='margin-top:0.5rem;' data-event-id='<%= event.id %>' data-event-class='<%= event['class'] %>'>
+                                    <div>
+                                        <a style='text-decoration: none;' class='sln-pen-icon-tooltip' href='' data-bookingid='<%= event.id %>'></a>
+                                    </div>
+                                    <div data-dup-icon='<%= event.is_pro_version ? 'true': 'false' %>' >
+                                        <a class='sln-dup-icon-tooltip' data-bookingid='<%= event.id %>'></a>
+                                    </div>
+                                    <div>
+                                        <a target='_blanck' class='sln-user-icon-tooltip' href='admin.php?page=salon-customers&id=<%= event.customer_id %>'></a>
+                                    </div>
+                                    <div class='sln-trash-icon-tooltip'></div>
+                                </div>
+                                <div class='sln-confirm-delete-tooltip'>
+                                    <div style='display:block;'>
+                                        <div><strong><%= cal.locale.confirm %></strong></div>
+                                        <div style='display:inline-block;'>
+                                            <a class='sln-dtn-danger-tooltip' href='<%= event.delete_url %>'>
+                                                <%= cal.locale.delete %>
+                                            </a>
+                                            <a class='sln-dtn-close-tooltip' aria-label='Close'>
+                                                <span aria-hidden='true'>&times;</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>">
+                                <span class="sln-week-days-tooltip" data-tooltip-id="<%= event.id %>">
+                                    <span  data-event-id="<%= event.id %>" class="event-item cal-event-week event<%= event.id %>"><%= event.title %></span>
+                                    <span  class="sln-event-header-more-icon sln-event-header-more-icon-vertical" data-tooltip-id="<%= event.id %>" ></span>
+                                </span>
+                            </div>
+                        <% } %>
+                    <% }) %>
+                </div>
+            <% }) %>
+        </div>
+    <% }) %>
+<% } else{ %>
+    <div class="cal-row-fluid">
+        <% _.each([0,1,2,3,4,5,6], function(index) { %>
+            <div class="weekday<%= index %> cal-cell1">
+                <% _.each(events, function(event){ if(event.start_day == index) { %>
+                    <div class="day-highlight dh-<%= event['class'] %>" data-event-class="<%= event['class'] %>"  
+                        data-toggle="tooltip" data-placement="right" 
+                        data-option="day" data-tooltip-id="<%= event.id %>" 
+                        data-html="true" title="<div class='sln-mouth-tooltip'><%= event.title %></div>
+                        <div style='display: grid; margin-top:0.5rem; margin-left:0.7rem;'>
+                            <span class='sln-value-tooltip' style='text-align: left;'>
+                                <div class='head-info-tooltip'><%= event.amount %></div>
+                                <div class='title-info-tooltip'><%= cal.locale.total_amount %></div>
+                            </span>
+                            <span class='sln-value-tooltip' id='discount-tooltip' style='text-align: left; margin-top:0.5rem; <%= event.is_pro_version ? '': 'display: none;' %>'>
+                                <div class='head-info-tooltip'><%= event.is_pro_version ? event.discount : '- -' %></div>
+                                <div class='title-info-tooltip'><%= cal.locale.discount %></div>
+                            </span>
+                            <span class='sln-value-tooltip' id='deposit-tooltip' style='text-align: left; margin-top:0.5rem; <%= event.is_pro_version ? '': 'display: none;' %>'>
+                                <div class='head-info-tooltip'><%= event.is_pro_version ? event.deposit : '- -' %></div>
+                                <div class='title-info-tooltip'><%= cal.locale.deposit %></div>
+                            </span>
+                            <span class='sln-value-tooltip' id='due-tooltip' style='text-align: left; margin-top:0.5rem; <%= event.is_pro_version ? '': 'display: none;' %>'>
+                                <div class='head-info-tooltip'><%= event.is_pro_version ? event.due : '- -' %></div>
+                                <div class='title-info-tooltip'><%= cal.locale.due %></div>
+                            </span>
+                        </div>
+                        <div class='icons-container' style='margin-top:0.5rem;' data-event-id='<%= event.id %>' data-event-class='<%= event['class'] %>'>
+                            <div>
+                                <a style='text-decoration: none;' class='sln-pen-icon-tooltip' href='' data-bookingid='<%= event.id %>'></a>
+                            </div>
+                            <div data-dup-icon='<%= event.is_pro_version ? 'true': 'false' %>' >
+                                <a class='sln-dup-icon-tooltip' data-bookingid='<%= event.id %>'></a>
+                            </div>
+                            <div>
+                                <a target='_blanck' class='sln-user-icon-tooltip' href='admin.php?page=salon-customers&id=<%= event.customer_id %>'></a>
+                            </div>
+                            <div class='sln-trash-icon-tooltip'></div>
+                        </div>
+                        <div class='sln-confirm-delete-tooltip'>
+                            <div style='display:block;'>
+                                <div><strong><%= cal.locale.confirm %></strong></div>
+                                <div style='display:inline-block;'>
+                                    <a class='sln-dtn-danger-tooltip' href='<%= event.delete_url %>'>
+                                        <%= cal.locale.delete %>
+                                    </a>
+                                    <a class='sln-dtn-close-tooltip' aria-label='Close'>
+                                        <span aria-hidden='true'>&times;</span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        </div>">
+                        <span class="sln-week-days-tooltip" data-tooltip-id="<%= event.id %>">
+                            <span  data-event-id="<%= event.id %>" class="event-item cal-event-week event<%= event.id %>"><%= event.title %></span>
+                            <span  class="sln-event-header-more-icon sln-event-header-more-icon-vertical" data-tooltip-id="<%= event.id %>" ></span>
+                        </span>
+                    </div>
+                <%} }); %>
+            </div>
+        <% }) %>
+    </div>
+<% } %>

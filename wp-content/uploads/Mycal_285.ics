@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Spatie calendar-links
+BEGIN:VEVENT
+UID:826e400177faffc81d4b71d3b147d6a1
+SUMMARY:Diora - 16 Апр 2024 15:49
+DTSTAMP;TZID=+03:00:20240416T154900
+DTSTART;TZID=+03:00:20240416T154900
+DTEND;TZID=+03:00:20240416T160400
+X-ALT-DESC;FMTTYPE=text/html:Salon name: Diora \n\nАдрес Сервиса:  \n\nSalon phone:  \n\nSalon email: konstantinova1111konstantinova@yandex.ru \n\nЗаявки услуг:\n\nПримечания к Заявке:\nПусто\n\nСтатус Заявки: В ожидании
+END:VEVENT
+END:VCALENDAR
